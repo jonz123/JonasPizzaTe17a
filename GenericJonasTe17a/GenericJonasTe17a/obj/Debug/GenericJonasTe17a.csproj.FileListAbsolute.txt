@@ -1,0 +1,7 @@
+C:\Users\Spooks\Documents\GitHub\GenericJonasTe17a\GenericJonasTe17a\bin\Debug\GenericJonasTe17a.exe.config
+C:\Users\Spooks\Documents\GitHub\GenericJonasTe17a\GenericJonasTe17a\bin\Debug\GenericJonasTe17a.exe
+C:\Users\Spooks\Documents\GitHub\GenericJonasTe17a\GenericJonasTe17a\bin\Debug\GenericJonasTe17a.pdb
+C:\Users\Spooks\Documents\GitHub\GenericJonasTe17a\GenericJonasTe17a\obj\Debug\GenericJonasTe17a.csprojAssemblyReference.cache
+C:\Users\Spooks\Documents\GitHub\GenericJonasTe17a\GenericJonasTe17a\obj\Debug\GenericJonasTe17a.csproj.CoreCompileInputs.cache
+C:\Users\Spooks\Documents\GitHub\GenericJonasTe17a\GenericJonasTe17a\obj\Debug\GenericJonasTe17a.exe
+C:\Users\Spooks\Documents\GitHub\GenericJonasTe17a\GenericJonasTe17a\obj\Debug\GenericJonasTe17a.pdb
